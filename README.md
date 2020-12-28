@@ -1,2 +1,2 @@
 # di-resolusi
-Reposiroty untuk menyimpan rencana DI kedepannya
+Repository untuk menyimpan rencana DI kedepannya
