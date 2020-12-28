@@ -1,3 +1,5 @@
 DI RESOLUSI 2021
 - Full-stack Web Development
 - Design UI/UX
+- Cyber Security
+- One Web Society
